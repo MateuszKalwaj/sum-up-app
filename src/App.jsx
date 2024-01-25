@@ -1,5 +1,5 @@
 import './App.css';
-import Hero from "./components/Hero.jsx";
+import CoreInfo from "./components/CoreInfo.jsx";
 import Demo from "./components/Demo.jsx";
 const App = () => {
     return (
@@ -9,7 +9,7 @@ const App = () => {
             </div>
 
             <div className="app">
-                <Hero/>
+                <CoreInfo/>
                 <Demo/>
             </div>
         </main>
