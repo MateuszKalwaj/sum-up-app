@@ -1,4 +1,4 @@
-import Logo from '../assets/sumuplogo2.png'
+import Logo from '../assets/sumuplogo3.png'
 
 const CoreInfo = () => {
     return (
