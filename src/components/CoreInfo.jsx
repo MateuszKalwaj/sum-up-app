@@ -13,8 +13,8 @@ const CoreInfo = () => {
                     Github
                 </button>
             </nav>
-            <h1 className="head_text">
-                Sum-up<br/> articles<br/> with<br className="max-md:hidden"/> <span className="orange_gradient">OpenAI</span>
+            <h1 className="head_text text-center">
+                Sum-up<br/> with<br className="max-md:hidden"/> <span className="orange_gradient">OpenAI</span>
             </h1>
             <h2 className="desc p-2">
                 Welcome to the AI reading summarizer. <br/>

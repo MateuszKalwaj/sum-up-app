@@ -48,11 +48,11 @@
             hsl(166, 48%, 25%) 0px,
             transparent 0%
     ),
-    radial-gradient(at 97% 21%, hsla(125, 98%, 72%, 1) 0px, transparent 50%),
-    radial-gradient(at 52% 99%, hsl(354, 98%, 49%) 0px, transparent 50%),
-    radial-gradient(at 10% 29%, hsla(256, 96%, 67%, 1) 0px, transparent 50%),
-    radial-gradient(at 97% 96%, hsl(38, 76%, 25%) 0px, transparent 50%),
-    radial-gradient(at 33% 50%, hsl(221, 80%, 16%) 0px, transparent 50%),
+    radial-gradient(at 97% 21%, hsla(125, 98%, 72%, 1) 0px, transparent 5%),
+    radial-gradient(at 52% 99%, hsl(354, 98%, 49%) 0px, transparent 5%),
+    radial-gradient(at 10% 29%, hsla(256, 96%, 67%, 1) 0px, transparent 5%),
+    radial-gradient(at 97% 96%, hsl(38, 76%, 25%) 0px, transparent 5%),
+    radial-gradient(at 33% 50%, hsl(221, 95%, 16%) 0px, transparent 50%),
     radial-gradient(at 79% 53%, hsl(84, 98%, 55%) 0px, transparent 50%);
     position: absolute;
     content: "";
@@ -60,7 +60,7 @@
     height: 100%;
     filter: blur(100px) saturate(150%);
     top: 80px;
-    opacity: 0.15;
+    opacity: 0.65;
 }
 
 @media screen and (max-width: 640px) {
